@@ -1,0 +1,6 @@
+.idea
+.env
+
+redis-data
+data
+venv
